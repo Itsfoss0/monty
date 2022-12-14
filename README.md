@@ -2,4 +2,11 @@
   > monty 
 
 ## Intro 
-This is a team project on stacks and ques 
+This is a team project on stacks and queues 
+
+## Resources 
+1. [Google](https://www.google.com/webhp?q=stack%20and%20queue)
+2. [How to use extern to share variables](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+3. [Stack and queue in C](https://data-flair.training/blogs/stacks-and-queues-in-c/)
+4. [Stack Operationss](https://www.digitalocean.com/community/tutorials/stack-in-c)
+5. [Queue Operations](https://www.edureka.co/blog/queue-in-c/)
