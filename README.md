@@ -124,4 +124,9 @@ itsfoss@foss:~/monty$
 
     - where<line_number> is the line number where the instruction appears.
     - Line numbers always start at 1
+- The monty program runs the bytecodes line by line and stop if either:
+
+    - It executed properly every line of the file
+    - It finds an error in the file
+    - An error occured
 
