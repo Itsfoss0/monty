@@ -10,3 +10,6 @@ This is a team project on stacks and queues
 3. [Stack and queue in C](https://data-flair.training/blogs/stacks-and-queues-in-c/)
 4. [Stack Operationss](https://www.digitalocean.com/community/tutorials/stack-in-c)
 5. [Queue Operations](https://www.edureka.co/blog/queue-in-c/)
+
+## Learning objectives 
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following concepts. 
