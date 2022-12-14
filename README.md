@@ -59,3 +59,10 @@ typedef struct instruction_s
         void (*f)(stack_t **stack, unsigned int line_number);
 } instruction_t;
 ```
+
+## Compilation and output
+The code will be compiled with the following flags 
+
+~~~
+gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty 
+~~~ 
