@@ -110,5 +110,8 @@ $
 $
 pall This is the end of our program. Monty is awesome!$
 itsfoss@foss:~/monty$
-
 ~~~
+
+#### The monty program 
+- Usage: ```monty file```
+    where __file__ is the path to the file containing Monty byte code
