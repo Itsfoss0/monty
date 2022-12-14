@@ -13,3 +13,8 @@ This is a team project on stacks and queues
 
 ## Learning objectives 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following concepts. 
+
+* [X] What do LIFO and FIFO mean
+* [ ] What is a stack, and when to use it
+* [ ] What is a queue, and when to use it
+* [ ] What are the common implementations of stacks and queues
