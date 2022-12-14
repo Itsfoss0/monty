@@ -20,3 +20,25 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] What are the common implementations of stacks and queues
 * [ ] What are the most common use cases of stacks and queues
 * [ ] What is the proper way to use global variables
+
+## More info
+### Data structures 
+Use the following data structures, dont forget to include them in the header file.
+
+```c
+/**
+ * struct stack_s - doubly linked list representation of a stack (or queue)
+ * @n: integer
+ * @prev: points to the previous element of the stack (or queue)
+ * @next: points to the next element of the stack (or queue)
+ *
+ * Description: doubly linked list node structure
+ * for stack, queues, LIFO, FIFO
+ */
+typedef struct stack_s
+{
+        int n;
+        struct stack_s *prev;
+        struct stack_s *next;
+} stack_
+```
