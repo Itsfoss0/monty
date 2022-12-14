@@ -61,8 +61,11 @@ typedef struct instruction_s
 ```
 
 ## Compilation and output
-The code will be compiled with the following flags 
+- The code will be compiled with the following flags 
 
 ~~~
 gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty 
 ~~~ 
+
+- Any output must be printed on stdout
+- Any error message must be printed on stderr
